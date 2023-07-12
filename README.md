@@ -18,3 +18,17 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 [![Watch the video]](/20230711205357.mp4)
+
+<p>
+  <img src="/Screenshot%202023-07-11%20210730.png" width="350" title="hover text">
+  </p>
+
+  <p>
+  <img src="/Screenshot%202023-07-11%20210657.png" width="350" title="hover text">
+  </p>
+
+  <p>
+  <img src="/Screenshot%202023-07-11%20210647.png" width="350" title="hover text">
+  </p>
+   <img src="/Screenshot%202023-07-11%20210542.png" width="350" title="hover text">
+  </p>
